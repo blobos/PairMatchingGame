@@ -1,0 +1,2 @@
+Method could be used for new game
+but buttons require atomicinteger, setting in method would have scope issues, so next level would not know current dimensions
